@@ -1,3 +1,3 @@
-# Staj-calismalarim
+# Siber Güvenlik staj çalışmalarım
 - Linux commands
 - VPN
