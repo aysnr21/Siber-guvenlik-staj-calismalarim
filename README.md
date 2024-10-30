@@ -1,3 +1,3 @@
 # Staj-calismalarim
-Linux commands
-VPN
+- Linux commands
+- VPN
