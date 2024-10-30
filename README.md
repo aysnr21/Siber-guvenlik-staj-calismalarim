@@ -1,0 +1,2 @@
+# Staj-alismalarim
+Linux commands
